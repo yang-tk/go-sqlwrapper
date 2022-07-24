@@ -6,7 +6,7 @@ A tiny wrapper for golang's `database/sql` package that provides transaction man
 
 ## Usage
 
-> go get github.com/yang-tk/sqlwrapper
+> go get github.com/yang-tk/go-sqlwrapper
 
 ### Initialization
 
